@@ -1,0 +1,32 @@
+1. Instalar la version mas reciente de Eclipse
+2. Instalar TomCat 10
+3. Instalar JDK mas reciente o jdk-18.0.1.1
+
+--------------------------------------------------------------------------------
+
+4. Incorporar el tomcat 10 en Window > preferences > server > runtime environments
+5. Agregar Tomcat 10 en el proyecto propiedades > Targeted Runtimes
+
+
+---------------------------------------------------------------------------------
+
+
+6. Agregar componente .jar para la conexión con PHP MyAdmin
+             mysql-connector-java-8.0.29
+
+7. Agregarlo en Proyecto > Buid Path > Add External JARs
+
+8. Agregarlo tambien en Deployment Assembly > add > Java build path entries
+
+
+-----------------------------------------------------------------------------------------
+
+para Xampp si bota error de puertos, actualizar puerto de MySQL en la conexion del proyecto 
+
+
+------------------------------------------------------------------------------------------
+
+NOTAS
+
+A la fecha 16/05/2021 por razon del Tomcat 10 tocó actualizar los javax por jakarta de 
+los imports en los servlets para quitar error 404

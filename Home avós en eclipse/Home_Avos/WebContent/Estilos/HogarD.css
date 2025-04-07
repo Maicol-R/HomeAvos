@@ -1,0 +1,308 @@
+@charset "ISO-8859-1";
+
+body{
+
+background-color: #E3E1E8;
+
+}
+#section{
+	width:69.5%;
+	margin-left:auto;
+	margin-right: auto;
+    /*justify-content: center;*/
+}
+
+/*////////////estrellas////////////*/
+
+#formStar {
+  width: 250px;
+  height: 50px;
+}
+
+#formStar p {
+  text-align: center;
+}
+
+#formStar label {
+  font-size: 20px;
+}
+
+.inputStar[type="radio"] {
+  display: none;
+}
+
+.labelStar {
+  font-size: 32px;
+  font-size: 2rem;
+  color: #888;
+  color: grey;
+}
+
+.clasificacion {
+  margin-top:13px;
+  margin-left:;
+  direction: rtl;
+  unicode-bidi: bidi-override;
+}
+
+.labelStar:hover,
+.labelStar:hover ~ label {
+  color: #F6C900;
+}
+
+.inputStar[type="radio"]:checked ~ label {
+  color: #F6C900;
+}
+
+/*////////////1cuadro///////////////*/
+
+.color{
+background-color:#FFFFFF;
+box-shadow: 0px 0px 4px 3px rgba(184,184,184,1);
+	}
+	
+.nombreHogar {
+	padding-right:2%;
+	color:#FFFFFF;
+	font-weight:bold;
+	font-size:22px;
+}
+
+#barra {
+	background-color:#5005b6; 
+	border-bottom: #FFFFFF 2px solid; 
+	border-top: #FFFFFF 2px solid;
+}
+
+.descrip {
+	width:80%;
+	display: block;
+	margin-right:auto;
+	margin-left: auto; 
+	font-size: 15px; 
+	margin-top: 55px;
+	margin-bottom: 55px;
+}
+
+
+.icons {
+	width: 3%;
+	margin-left:12%;
+}
+
+.subs{
+	margin-left: 20%;
+	margin-top:-45px;
+	margin-bottom:30px;
+}
+/*////////////2cuadro///////////////*/
+
+#formulario {
+	
+	margin-left:auto;
+	margin-right:auto;
+	background:#5005b6; 
+	padding-left:6%; 
+	padding-right:4%; 
+	padding-top:20px;
+	color:#FFFFFF;
+
+}
+
+.btonServicio {
+	border:0;
+	width: 100%;
+	background-color:#08a1ff;
+	color: #FFFFFF;
+	font-weight: bold;
+	font-size: 14px;
+	padding-left: 10%;
+	padding-right: 10%;
+}
+
+/*////////////3cuadro///////////////*/
+
+.nombresU {
+	margin-top:4px;
+	margin-bottom:4px;
+	font-weight:bold;
+	font-size:14.5px;
+}
+
+.iconoU {
+	width: 80px;
+	margin-top:6px;
+	margin-left:8%;
+    
+
+}
+
+.TextComBD {
+	margin-top:2px;
+	padding-right:6%;
+}
+
+.textIC {
+	margin-top:2px;
+}
+
+.textCom{
+	width:94%;
+	height:32px;
+	display:block;
+	border:2px #5005b6 solid;
+}
+
+#modComentario {
+	width:95%;
+	border: 0 #FFFFFF solid;
+	resize: none;
+	padding:3px;
+	margin-left:0;
+	display:none;
+}
+
+.submitCom{
+	font-size:16px;
+	font-weight:bold;
+	width: 19%;
+	height: 30px;
+	background: #08a1ff;
+	color: #FFFFFF;
+	border:0;
+	margin-top:10px;
+	float:right;
+	margin-right:6%;
+}
+
+.resetCom {
+	font-size:16px;
+	font-weight:bold;
+	width: 19%;
+	height: 30px;
+	background: #FF0000;
+	color: #FFFFFF;
+	border:0;
+	margin-top:10px;
+	float:right;
+	margin-right:1%;
+}
+
+.deleteCom{
+	font-size:16px;
+	font-weight:bold;
+	width: 19%;
+	height: 30px;
+	background: #FF0000;
+	color: #FFFFFF;
+	border:0;
+	margin-top:10px;
+	float:right;
+	margin-right:6%;
+}
+
+.updateCom {
+	font-size:16px;
+	font-weight:bold;
+	width: 19%;
+	height: 30px;
+	background: #08a1ff;
+	color: #FFFFFF;
+	border:0;
+	margin-top:10px;
+	float:right;
+	margin-right:1%;
+}
+
+.msjNOcomt{
+	margin-top:20px;
+	margin-bottom:20px;
+	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
+	display:block;
+	font-weight:bold;
+	font-size:120%;
+	color:#8e8c8c;
+}
+/*//////////apartado postular//////////*/
+
+.cuadroP{
+	box-shadow: 0px 0px 4px 3px rgba(184,184,184,1);
+	text-align:center;
+	padding-top:25px;
+	padding-bottom:25px;
+	background-color:#FFFFFF;
+}
+
+.btnPostular {
+	border:0;
+	width:30%;
+	height:40px;
+	font-weight:bold;
+	color:#FFFFFF;
+	background-color: #08a1ff;
+}
+
+.btnPostularDes {
+	border:0;
+	width:30%;
+	height:40px;
+	font-weight:bold;
+	color:#FFFFFF;
+	background-color: #08a1ff;
+	opacity:0.5;
+}
+
+/*////////////estrellas comentarios////////////*/
+
+#formStarC {
+  width: 250px;
+  height: 50px;
+}
+
+#formStarC p {
+  text-align: center;
+}
+
+#formStarC label {
+  font-size: 20px;
+}
+
+.inputStarC[type="radio"] {
+  display: none;
+}
+
+.labelStarC {
+  font-size: 26px;
+  color: #888;
+  color: grey;
+}
+
+.labelStarC:hover,
+.labelStarC:hover ~ label {
+  color: #F6C900;
+}
+
+.inputStarC[type="radio"]:checked ~ label {
+  color: #F6C900;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

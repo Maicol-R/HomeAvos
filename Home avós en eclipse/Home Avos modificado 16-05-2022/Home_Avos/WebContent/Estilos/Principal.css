@@ -1,0 +1,31 @@
+@charset "ISO-8859-1";
+
+#info {
+margin-left:6.8%;
+position: relative;	
+width: 70%;
+}
+
+.descr {
+	font-family: cursive;
+	font-weight:bold;
+	margin-top: 60px;
+	margin-bottom: 60px;
+	font-size:20px;
+	text-align: center;
+}
+
+.descr2 {
+	font-weight:bold;
+	font-family: cursive;
+	margin-top: -200px;
+	margin-bottom:0;
+	font-size:20px;
+	margin-left: 32%;
+}
+
+.imagenAbus {
+	width:34%;
+	margin-top: 80px;
+	margin-bottom:0;
+}

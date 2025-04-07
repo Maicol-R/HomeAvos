@@ -1,0 +1,42 @@
+Instrucciones de uso Home Avós
+
+*Este proyecto en particular solo se ejecuta con Tomcat 9, los demás no los reconoce*
+
+1. Ejecutar el JSP "Principal.jsp"
+
+2. Registrarse como usuario FAMILIAR e iniciar sesión (los login de google y facebook no estan 
+configurados adecuadamente para el proceso del primer modulo, por lo tanto solo se maneja el 
+login propio de la aplicacion)
+
+3. Ir a "Buscar hogar geriátrico" ubicado en la barra de navegación 
+
+4. Elegir el hogar de su preferencia y dar click en el boton "Ver más"
+
+5. Seleccionar los servicios que desea apartar del hogar geriatrico en la tabla 
+"servicios que ofrecemos"
+
+6. dar click en el boton "click para continuar"
+
+7. llenar el formulario de postulacion y dar click en "enviar"
+
+En este punto se deberia mostrar un reporte con la informacion mas importante de la postulación
+incluyendo fecha y hora, este reporte se guarda en una tabla llamada "info_postulacion" en la base de datos
+
+*********************************************************************************************
+
+NOTAS: Para prevenir mas errores con el servlet "Añadir_Servicios" se le cambio el nombre omitiendo
+a toda costa la letra Ñ, y asi poder subir el proyecto al servidor sin problemas
+
+Se cambiaron TODOS los JOPtionPane y se mejoró la navegabilidad
+
+Este proyecto usa para todo este funcionamiento las "variables de sesión"
+
+El usuario hogar geriatrico tiene su CRUD completo y la opcion de agregar servicios a voluntad
+
+La barra de navegacion tiene adelantados todos los módulos que muestra, como blogs, quienes somos, ayuda y demás
+
+*******************************************************************************************
+
+Esperamos que el proyecto cumpla con sus expectativas !! =)
+
+ .. Home avós ..

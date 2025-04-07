@@ -1,0 +1,122 @@
+@charset "ISO-8859-1";
+
+
+/*////////////estrellas////////////*/
+
+.stars {
+	margin-top:-25px;
+	margin-bottom:-15px;
+	margin-left: 30%;
+}
+
+#formStar {
+  width: 250px;
+  height: 50px;
+}
+
+#formStar p {
+  text-align: center;
+}
+
+#formStar label {
+  font-size: 20px;
+}
+
+.inputStar[type="radio"] {
+  display: none;
+}
+
+.labelStar {
+  font-size: 32px;
+  font-size: 2rem;
+  color: #888;
+  color: grey;
+}
+
+.clasificacion {
+  margin-top:13px;
+  margin-left:;
+  direction: rtl;
+  unicode-bidi: bidi-override;
+}
+
+.labelStar:hover,
+.labelStar:hover ~ label {
+  color: #F6C900;
+}
+
+.inputStar[type="radio"]:checked ~ label {
+  color: #F6C900;
+}
+
+/*/////////////////////////////////////////////*/
+
+.cont {
+	margin-top: -35px;
+}
+
+.imagen{
+  margin-top: 8px;
+  margin-left:5%;
+  width:20%;
+  float:left;
+
+}
+
+.nombreH{
+	margin-left: 30%;
+	margin-top: 80px;
+	font-weight: bold;
+	font-size: 17px;
+}
+
+/*////iconos/////*/
+
+.iconV{
+	width: 2.5%;
+	padding-right:0.5%;
+}
+
+.iconC{
+	width: 3%;
+	padding-right:0.5%;
+}
+
+.iconH {
+	width: 5%;
+}
+
+.verificado {
+	margin-left: 30%;
+}
+
+.ciudad {
+	margin-left: 39%;
+	margin-top: -33px;
+}
+
+.tipo {
+	margin-left: 47%;
+	margin-top: -33px;	
+}
+
+/*****************************************/
+
+.descripcion {
+	width: 38%;
+	margin-left: 30%;
+	margin-top: -40px;
+}
+
+.btnVM {
+	margin-left: 30%;
+	margin-bottom: 35px;
+	width: 16%;
+	height: 30px;
+	background-color:#08a1ff;
+	color: #FFFFFF;
+	font-weight: bold;
+	font-size: 14px;
+}
+
+

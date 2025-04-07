@@ -1,0 +1,90 @@
+@charset "ISO-8859-1";
+
+.titulo {
+	color:#000000;
+	font-family: cooper black;
+	text-shadow: 0 0 0.2em #87F, 0 0 0.2em #87F,
+		0 0 0.2em #87F;
+    text-align: left;
+    margin-left:50px;
+}
+
+.altern {
+	font-size:45px;
+	color:#7D7C7C;
+	font-weight:bold;
+	display:block;
+	text-align:center;
+	margin-top: 0px;
+	
+}
+
+.altern2 {
+	font-size:22px;
+	color:#B0AFAF;
+	font-weight:bold;
+	display:block;
+	text-align:center;
+	margin-top: -30px;
+	
+}
+
+
+/*estilos tabla*/
+
+.table {
+	width:80%;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.tipoDato {
+	background-color:#5005b6; 
+	color:#FFFFFF; 
+	width:18%;
+}
+
+.dato {
+	border-right:1px #D5D5D5 solid;
+	border-left:1px #D5D5D5 solid;
+	border-bottom:1px #D5D5D5 solid;
+}
+
+/*///////////////*/
+
+
+.btnVD{
+	margin-left:auto;
+	margin-right:auto;
+	font-size:16px;
+	font-weight:bold;
+	height: 30px;
+	background: #08a1ff;
+	color: #FFFFFF;
+	border:0;
+}
+
+.btnVD:hover{
+	background-color:#02769E;
+}
+
+.volver {
+	font-size:16px;
+	font-weight:bold;
+	width: 13%;
+	height: 30px;
+	background: #FF0000;
+	color: #FFFFFF;
+	border:0;
+	margin-top:10px;
+	margin-left:auto;
+	margin-right:auto;
+	display:block;
+}
+	
+
+.volver:hover{
+	background-color:#CA0606;
+}
+
+

@@ -1,0 +1,72 @@
+@charset "ISO-8859-1";
+
+.titulo {
+	color:#000000;
+	font-family: cooper black;
+	text-shadow: 0 0 0.2em #87F, 0 0 0.2em #87F,
+		0 0 0.2em #87F;
+    margin-left:32%;
+    text-align: left;
+    margin-left:5%;
+}
+
+#formulario {
+	width: 36%;
+	display:block;
+	margin-left:auto; 
+	margin-right:auto;
+	margin-bottom:720px; /* arregla footer */
+	background:#5005b6; 
+	padding-left:40px; 
+	padding-right:40px; 
+	padding-top:20px;
+	padding-bottom:30px; 
+	color:#FFFFFF;
+}
+
+.Ctexto{
+	margin-top:12px;
+	margin-bottom:12px;
+	width:95%;
+    height:25px;
+    border:3px solid #FFFFFF;
+}
+
+.text {
+	font-weight:bold;
+	font-family:arial;
+	font-size:18px;
+}
+
+.submit{
+	font-size:16px;
+	font-weight:bold;
+	width: 38%;
+	height: 30px;
+	background: #08a1ff;
+	color: #FFFFFF;
+	border:0;
+	margin-top:10px;
+	margin-left:9%;
+}
+
+.submit:hover{
+	background-color:#02769E;
+}
+
+.volver {
+	font-size:16px;
+	font-weight:bold;
+	width: 38%;
+	height: 30px;
+	background: #FF0000;
+	color: #FFFFFF;
+	border:0;
+	margin-top:10px;
+	margin-right:9%;
+}
+	
+
+.volver:hover{
+	background-color:#CA0606;
+}

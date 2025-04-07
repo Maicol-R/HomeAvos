@@ -1,0 +1,54 @@
+@charset "ISO-8859-1";
+
+.titulo {
+	text-align:center;
+	color:#000000;
+	font-family: cooper black;
+	text-shadow: 0 0 0.2em #87F, 0 0 0.2em #87F,
+		0 0 0.2em #87F;
+}
+
+#imgPerfil {
+	margin-top:-80px;
+	display:block;
+	margin-right:auto;
+	margin-left:auto; 
+	padding-right:40%;
+}
+
+.descr {
+	font-family: cursive;
+	font-weight:bold;
+	margin-top: 20px;
+	margin-bottom: 60px;
+	font-size:20px;
+	text-align: center;
+}
+
+.imagen {
+	width:50%; 
+	display:block;
+	margin-right:auto;
+	margin-left:auto; 
+
+}
+
+.botones{
+	background-color: #5005b6;
+	color:#FFFFFF;
+	font-weight:bold;
+	font-size: 18px;
+	width:45%;
+	height:42px;
+	border:0;
+	margin-top:20px;
+	display:block;
+	margin-right:auto;
+	margin-left:auto; 
+}
+
+
+.botones:hover {
+	background-color: #069DCA;
+}
+

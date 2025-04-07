@@ -1,0 +1,77 @@
+@charset "ISO-8859-1";
+/*///Formulario////*/
+.titulo {
+	color:#000000;
+	font-family: cooper black;
+	text-shadow: 0 0 0.2em #87F, 0 0 0.2em #87F,
+		0 0 0.2em #87F;
+    margin-left:32%;
+    text-align: left;
+    margin-left:5%;
+}
+
+.formulario{
+    width:38%;
+    display:block;
+	margin-left:auto;
+	margin-right:auto;
+	background:#5005b6; 
+	padding-left:3%; 
+	padding-right:3%; 
+	padding-top:20px;
+	padding-bottom:30px; 
+	color:#FFFFFF;
+	margin-bottom:450px; /*arregla footer*/
+}
+.Ctexto{
+    width:48%;
+    height:25px;
+}
+.Ctext{
+    width: 96%;
+    height: 80px; 
+}
+.Cfecha{
+	margin-top:2px;
+    width: 48%;
+    height: 25px;
+}
+.Cbox{
+    width:48%;
+    height:25px;
+}
+.text {
+	margin-top:8px;
+	font-weight:bold;
+	font-family:arial;
+	font-size:18px;
+}
+.submit{
+   font-size:16px;
+	font-weight:bold;
+	width: 38%;
+	height: 30px;
+	background: #08a1ff;
+	color: #FFFFFF;
+	border:0;
+	margin-top:10px;
+	margin-left:11%;
+}
+.submit:hover{
+	background-color:#118AD5;
+}
+.volver{
+    font-size:16px;
+	font-weight:bold;
+	width: 38%;
+	height: 30px;
+	background: #FF0000;
+	color: #FFFFFF;
+	border:0;
+	margin-top:10px;
+	margin-right:11%;
+}
+.volver:hover{
+	background-color:#CA0606;
+}
+

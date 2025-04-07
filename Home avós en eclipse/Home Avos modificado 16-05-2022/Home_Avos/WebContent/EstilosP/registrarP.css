@@ -1,0 +1,84 @@
+@charset "ISO-8859-1";
+
+.titulo {
+	color:#000000;
+	font-family: cooper black;
+	text-shadow: 0 0 0.2em #87F, 0 0 0.2em #87F,
+		0 0 0.2em #87F;
+    margin-left:32%;
+    text-align: left;
+    margin-left:5%;
+}
+
+.contenedor{
+	display:block;
+	margin-right:auto;
+	margin-left:auto;
+	margin-top:17px;
+	padding: 26px;
+	padding-top:25px;
+	padding-bottom:25px;
+	background:#5005b6;
+	width:48%;
+}
+
+#formulario {
+	background:#FFFFFF; 
+	padding-right:2%; 
+	padding-left:2%; 
+	padding-top:20px;
+	padding-bottom:10px;
+	color:#FFFFFF;
+}
+
+.Ctexto{
+	width:47%;
+	height:29px;
+	margin-left:1.6%;
+	border-radius:5px;
+	border:2px solid #5005b6;
+	
+}
+
+.texarea{
+	width: 96%;
+	height: 80px;
+	margin-left:1.7%;
+	margin-top:5px;
+	border-radius:5px;
+	border:2px solid #5005b6;
+
+}
+
+.submit{
+	font-size:16px;
+	font-weight:bold;
+	width: 25%;
+	height: 30px;
+	background: #08a1ff;
+	color: #FFFFFF;
+	border:0;
+	margin-top:22px;
+	margin-left:24%;
+}
+
+.submit:hover{
+	background-color:#02769E;
+}
+
+.volver {
+	font-size:16px;
+	font-weight:bold;
+	width: 25%;
+	height: 30px;
+	background: #FF0000;
+	color: #FFFFFF;
+	border:0;
+	margin-top:22px;
+	margin-right:24%;
+}
+	
+
+.volver:hover{
+	background-color:#CA0606;
+}

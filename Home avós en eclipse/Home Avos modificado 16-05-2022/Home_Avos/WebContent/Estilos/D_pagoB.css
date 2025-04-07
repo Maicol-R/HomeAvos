@@ -1,0 +1,92 @@
+@charset "ISO-8859-1";
+
+
+/*/////inicio//////*/
+
+#section{
+	width:70%;
+	display: block;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.color{
+background-color:#FFFFFF;
+	}
+	
+.nombreHogar {
+	padding-right:2%;
+	color:#FFFFFF;
+	font-weight:bold;
+	font-size:22px;
+}
+
+#barra {
+	background-color:#5005b6; 
+	border-bottom: #FFFFFF 2px solid; 
+	border-top: #FFFFFF 2px solid;
+}
+
+.descrip {
+	width:80%;
+	display: block;
+	margin-right:auto;
+	margin-left: auto; 
+	font-size: 15px; 
+	margin-top: 55px;
+	margin-bottom: 55px;
+}
+
+
+.imagen{
+
+	width:25%;
+    margin-left:5%;
+    width:20%;
+   
+}
+
+
+.negra{
+font-weight: bold;	
+}
+
+.texarea{
+
+width: 100%;
+height: 130px;
+
+}
+
+
+.submit{
+	width:20%;
+	height: 40px;
+	background: #08a1ff;
+	color: #FFFFFF;
+	border:0;
+	margin-left:27%;
+	font-size:18px;
+	font-weight:bold;
+}
+.submit:hover{
+	background-color:#02769E;
+}
+
+.reset {
+	width:20%;
+	height: 40px;
+	background: #FF0000;
+	color: #FFFFFF;
+	border:0;
+	font-size:18px;
+	font-weight:bold;
+	
+}
+
+.reset:hover{
+	background-color:#CA0606;
+}
+
+
+

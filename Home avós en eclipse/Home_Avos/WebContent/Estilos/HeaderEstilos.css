@@ -1,0 +1,267 @@
+@charset "ISO-8859-1";
+
+.nav-link {
+	color:#FFFFFF; 
+	font-weight:bold; 
+	font-size:96%;
+	
+}
+
+.nav-link:hover {
+	background-color: #08a1ff;
+	color:#FFFFFF;
+	
+}
+
+.Administrador {
+	color:#FFFFFF; 
+    font-weight:bold;
+    margin-bottom: -8px;
+}
+
+.lis {
+	 color: transparent;
+}
+
+
+.lis2 {
+	color:#5005b6;
+    border-left: #08a1ff 1px solid;
+}
+
+.dropdown-menu {
+	background-color: #5005b6;
+}
+
+
+.dropdown-item {
+	color: #FFFFFF; 
+	font-weight: bold;
+}
+
+.dropdown-item:hover {
+	color: #FFFFFF; 
+	background-color:#08a1ff;
+}
+
+.home2{
+	width:30%;
+	margin-right:;
+	border:0;
+	padding:0;
+}
+
+.menuDespl{
+	width:100%;
+	margin-right:;
+	border:0;
+	padding:0;
+}
+
+
+/*///////////////login//////////////////*/
+
+#btnFamiliar {
+	font-weight: bold; 
+	height: 40px; 
+	font-size:96%; 
+	margin-top:3px; 
+	
+}
+
+#btnHogar {
+	
+	font-weight: bold; 
+	height: 40px; 
+	font-size:96%; 
+	margin-top:3px; 
+	
+	
+}
+
+.iconBTNhg {
+	width:45%; 
+	margin-top:-8px;
+	margin-right:6px;
+}
+
+.iconBTNhg:hover {
+
+}
+
+
+.iconBTNf {
+	width:45%;
+	margin-left: -2%; 
+	margin-top:-8px;
+}
+
+#btnlogin {
+	margin-left:-35%;
+	font-weight: bold;
+	margin-top:3px;
+}
+
+.btnCerrar {
+	margin-top:3px;
+	margin-left:-45%;
+	background-color: #FF0000;
+	color: #FFFFFF;
+	font-weight:bold;
+	height: 40px; 
+	width: 130%;
+	font-size:100%;
+	border:0;
+	border-radius: 4px; 
+}
+
+.btnCerrar:hover {
+	background-color:#CA0606;
+}
+
+#login {
+    border-bottom: #FFFFFF 2px solid;
+	width: 380px;
+    padding-right: 1.5%;
+    margin-right: 0%;
+	float: right;
+	background-color: #5005b6;
+	padding-bottom: 40px;
+	
+
+}
+
+.nav-item2 {
+	text-align: center;
+	font-size: 12px;
+    width:50%;
+}
+
+.ind{
+	margin-top: 28px;
+	margin-bottom: 23px;
+	margin-left: 10%;
+	color: #FFFFFF;
+	font-weight: bold;
+}
+
+.espacio{
+	margin-left: 10%;
+}
+
+
+/*inicio de sesion*/
+
+.cajasInicioS {
+	text-align: center;
+	width:80%;
+	height:26px;
+	font-size: 85%;
+	border: #5005b6 3px solid;
+	padding:6px;
+	margin-bottom: 8px;
+	margin-left: 10%;
+	background-color: #e0e0e0;
+}
+
+
+.submitISF {
+	width:40%;
+	height: 27px;
+	background: #08a1ff;
+	color: #FFFFFF;
+	border:0;  
+	margin-left:31%;
+	font-size:14px;
+	font-weight:bold;
+}
+
+.submitISF:hover {
+	background-color:#02769E;
+}
+
+.iconFam {
+	margin-left: 35%;
+}
+
+
+/*/////////*registros/////////*/
+
+#formularioR {
+	width: 85%;
+	margin-left:10%; 
+	margin-right:9%; 
+	background-color:#FFFFFF; 
+	padding-left:4%; 
+	padding-right:4%; 
+	padding-top:20px;
+	padding-bottom:10px;
+	color:#000000;
+}
+
+.subtitles {
+	margin-top: -6px;
+	margin-bottom: -6px;
+	font-weight: bold;
+	font-family:arial;
+	font-size:18px;
+}
+
+.CtextoR{
+	width:49%;
+	height:24px;
+	font-size: 80%;
+	border: #5005b6 3px solid;
+	padding:6px;
+	margin-bottom: 12px;
+	
+}
+.CboxR{
+	width:49%;
+	height:24px;
+	font-size: 80%;
+	border: #5005b6 3px solid;
+}
+
+.terminos {
+   font-size: 14px;
+   margin-bottom: -25px;
+}
+
+.verTerminos {
+   font-size: 14px;
+   color:#08a1ff;
+   font-weight: bold;
+}
+
+.submitR{
+	width:40%;
+	height: 27px;
+	background: #08a1ff;
+	color: #FFFFFF;
+	border:0;
+	margin-top:20px;  
+	margin-left:6%;
+	font-size:14px;
+	font-weight:bold;
+}
+.submitR:hover{
+	background-color:#02769E;
+}
+
+.resetR {
+	width:40%;
+	height: 27px;
+	background: #FF0000;
+	color: #FFFFFF;
+	border:0;
+	margin-top:10px;
+	margin-left:6%;
+	font-size:14px;
+	font-weight:bold;
+	
+}
+
+.resetR:hover{
+	background-color:#CA0606;
+}

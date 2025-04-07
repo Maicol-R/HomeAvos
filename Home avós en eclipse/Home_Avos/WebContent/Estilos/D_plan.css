@@ -1,0 +1,184 @@
+@charset "ISO-8859-1";
+
+
+/*/////inicio//////*/
+
+#section{
+	width:70%;
+	display: block;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.color{
+background-color:#FFFFFF;
+	}
+	
+.nombreHogar {
+	padding-right:2%;
+	color:#FFFFFF;
+	font-weight:bold;
+	font-size:22px;
+}
+
+.negra{
+
+font-weight: bold;	
+font-size: 40px;
+
+}
+
+
+
+.btnVM {
+	
+	margin-bottom: 35px;
+	width: 40%;
+	height: 30px;
+	background-color:#08a1ff;
+	color: #FFFFFF;
+	font-weight: bold;
+	font-size: 14px;
+}
+
+.btnPL {
+	
+	margin-bottom: 35px;
+	width: 15%;
+	height: 30px;
+	background-color:#08a1ff;
+	color: #FFFFFF;
+	font-weight: bold;
+	font-size: 17px;
+	
+}
+
+.btnPA {
+	
+	margin-bottom: 35px;
+	width: 15%;
+	height: 30px;
+	background-color:#08a1ff;
+	color: #FFFFFF;
+	font-weight: bold;
+	font-size: 17px;
+	
+}
+
+
+.btnPB {
+	
+	margin-bottom: 35px;
+	width: 30%;
+	height: 70px;
+	background-color:#08a1ff;
+	color: #FFFFFF;
+	font-weight: bold;
+	font-size: 17px;
+	
+}
+/*/////segundo cuadro//////*/
+.basic{
+	margin-left:25px;
+	font-size: 17px;
+
+}
+.basico{
+	margin-left:100px;
+	font-size: 17px;	
+}
+.esta{
+	margin-left:30px;
+	font-size: 17px;
+}
+.estandar{
+	margin-left:99px;
+	font-size: 17px;
+}
+.pre{
+	
+	
+margin-left:38px;
+font-size: 17px;
+}
+.premium{
+margin-left:150px;	
+font-size: 17px;
+}
+
+/*/////tercer cuadro//////*/
+/*/////basico//////*/
+
+.numerouno{
+	margin-left:100px;	
+}
+
+.numerodos{
+	margin-left:30px;	
+}
+.numerotres{
+	margin-left:30px;	
+}
+.numerocuatro{
+	margin-left:30px;	
+}
+.numerocinco{
+	margin-left:20px;	
+}
+
+/*/////standar//////*/
+
+.numeritouno{
+	margin-left:50px;	
+}
+
+.numeritodos{
+	margin-left:40px;	
+}
+.numeritotres{
+	margin-left:40px;	
+}
+.numeritocuatro{
+	margin-left:40px;	
+}
+.numeritocinco{
+	margin-left:40px;	
+}
+.numeritoseis{
+	margin-left:40px;	
+}
+.numeritosiete{
+	margin-left:30px;	
+}
+
+/*/////premium//////*/
+
+
+.uno{
+	margin-left:50px;	
+}
+
+.dos{
+	margin-left:30px;	
+}
+.tres{
+	margin-left:30px;	
+}
+.cuatro{
+	margin-left:30px;	
+}
+.cinco{
+	margin-left:30px;	
+}
+.seis{
+	margin-left:30px;	
+}
+.siete{
+	margin-left:30px;	
+}
+.ocho{
+	margin-left:20px;
+}
+
+
+
